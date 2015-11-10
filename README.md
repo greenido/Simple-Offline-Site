@@ -1,7 +1,7 @@
 TODO:
 * Create an example page for 'static site'
 * Create an example page for an updated site with *firebase*
-* Add automation with gulp.
+* Add (more) automation with gulp.
 
 ------
 
